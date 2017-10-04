@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cucumber</groupId>
-	<artifactId>cucumber-java-template</artifactId>
+	<artifactId>cucumber-java-selenium-quickstart</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-	<name>Cucumber-JVM template</name>
+	<name>Cucumber Java Selenium Quickstart</name>
 
 	<properties>
 		<!-- File Encoding -->
